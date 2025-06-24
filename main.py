@@ -1,7 +1,7 @@
 import telebot
 import yt_dlp
 
-TOKEN = '8156014824:AAHYwOpugQN3mf-vSOqy795zCwzwnwwxQW0'
+TOKEN = 'API_KEY'
 
 
 bot = telebot.TeleBot(TOKEN)
